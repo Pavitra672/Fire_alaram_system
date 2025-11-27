@@ -6,9 +6,13 @@ The purpose of this project is to detect fire (or fire conditions) and alert use
 
 ## 📦 What’s inside / Files  
 - `fire_alaram_fsm.html` — main file (state-machine / logic / documentation / design)  
-- (add here any other files you add later: code files, documentation, circuit diagrams, etc.)  
+- (add here any other files you add later: code files, documentation, circuit diagrams, etc.)
 
-## ✅ How to Use (or Run / View)  
+## Pictures
+<img width="1476" height="885" alt="image" src="https://github.com/user-attachments/assets/4d2c1925-5edd-4f70-8389-ccb5d2cf0176" />
+
 1. Clone the repository:  
    ```bash
    git clone https://github.com/Pavitra672/Fire_alaram_system.git
+## Live demo
+   https://firealaramsystem.netlify.app/
