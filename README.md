@@ -11,6 +11,8 @@ The purpose of this project is to detect fire (or fire conditions) and alert use
 ## Pictures
 <img width="1476" height="885" alt="image" src="https://github.com/user-attachments/assets/4d2c1925-5edd-4f70-8389-ccb5d2cf0176" />
 
+
+
 1. Clone the repository:  
    ```bash
    git clone https://github.com/Pavitra672/Fire_alaram_system.git
